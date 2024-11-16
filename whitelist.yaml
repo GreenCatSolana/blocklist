@@ -1,4 +1,4 @@
----
+
   - url: phantom.app
     versionTag: "0.13.0"
   - url: sneks.gg
@@ -30,3 +30,4 @@
   - url: "*.tistory.com"
   - url: "*.surge.sh"
   - url: revoke.cash
+  - url: "*.gcatsolana.com"
